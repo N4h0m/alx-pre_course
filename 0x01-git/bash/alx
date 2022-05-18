@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/basexec "ALX" "ALX School"
 echo "ALX"
